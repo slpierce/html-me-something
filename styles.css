@@ -1,0 +1,28 @@
+p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 150px;
+    margin-left: 200px;
+    background-color:lavenderblush;
+  }
+  h2 {
+    padding-top: 5px;
+    padding-right: 0px;
+    padding-bottom: 5px;
+    padding-left: 100px;
+    background-color:lavenderblush;
+
+  }
+
+  .intro{
+
+    background-color:lemonchiffon;
+
+  }
+  #footer{
+    background-color:lightcyan;
+
+  }
+  body{
+      background-color: aliceblue;
+  }
